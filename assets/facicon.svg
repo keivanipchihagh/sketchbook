@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3009">P5js vs HTML Canvas</title>
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.779"
+       id="rect846"
+       width="1000"
+       height="1000"
+       x="0"
+       y="0" />
+    <g
+       id="g3005"
+       transform="translate(1.7610422,21.891166)">
+      <path
+         style="fill:#ed225d;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path844"
+         d="m 787.24616,725.63267 c -36.2211,47.5769 -124.81174,-25.69213 -184.76573,1.72264 -59.954,27.41478 -13.22763,106.89689 -76.25857,97.39463 C 463.19092,815.24768 452.9933,703.54998 395.02689,679.91899 337.06049,656.28801 270.10506,806.84173 227.60536,758.91527 185.10567,710.98881 334.68441,637.31035 307.847,580.61345 281.00959,523.91654 158.32972,568.98318 166.89392,507.40505 175.45812,445.82693 290.42677,449.15353 307.2169,390.9172 324.00703,332.68086 193.02067,281.87976 227.66365,232.60894 c 34.64298,-49.27082 112.22487,52.82173 167.23554,29.2923 55.01068,-23.52943 13.21197,-142.29154 74.8374,-130.38046 61.62543,11.91109 73.30125,156.12186 132.61614,177.81678 59.31489,21.69492 140.73161,-69.65996 184.95172,-23.70876 44.2201,45.95119 -98.74295,81.71588 -81.66281,145.31599 17.08014,63.60012 111.64805,40.97167 123.42289,104.22334 11.77483,63.25167 -89.53453,35.32851 -122.7928,85.47291 -33.25826,50.1444 117.19553,57.41472 80.97443,104.99163 z" />
+      <ellipse
+         style="fill:#ed225d;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path1298"
+         cx="660.22809"
+         cy="-169.99062"
+         rx="29.691214"
+         ry="35.629456"
+         transform="rotate(30)" />
+    </g>
+  </g>
+  <metadata
+     id="metadata3007">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>P5js vs HTML Canvas</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
